@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-react-native-basic-structure",
-    "slug": "expo-react-native-basic-structure",
+    "name": "padel",
+    "slug": "padel",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
