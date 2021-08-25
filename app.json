@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "appointments",
-    "slug": "appointments",
+    "name": "expo-react-native-basic-structure",
+    "slug": "expo-react-native-basic-structure",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
